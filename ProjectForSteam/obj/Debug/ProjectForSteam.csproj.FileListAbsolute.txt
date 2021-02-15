@@ -1,7 +1,0 @@
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\obj\Debug\ProjectForSteam.csprojAssemblyReference.cache
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\obj\Debug\ProjectForSteam.csproj.CoreCompileInputs.cache
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\bin\Debug\ProjectForSteam.exe.config
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\bin\Debug\ProjectForSteam.exe
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\bin\Debug\ProjectForSteam.pdb
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\obj\Debug\ProjectForSteam.exe
-C:\Users\aysin\source\repos\ProjectForSteam\ProjectForSteam\obj\Debug\ProjectForSteam.pdb
