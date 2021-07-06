@@ -6,4 +6,4 @@ Satışlarda kampanya entegrasyonunu içeren store simulasyonu
 
 Uygulamanın çalıştırılabilmesi için:
 - Program.cs içerisinde doğru olan isim, soyisim, TC numarası bilgileri girilmelidir.
-- KPS sevisi isim, soyisim bilgilerinin büyük harfle yazılmasını gerektirdiği için bu bilgiler büyük harfle girilmelidir.
+- KPS servisi isim, soyisim bilgilerinin büyük harfle yazılmasını gerektirdiği için bu bilgiler büyük harfle girilmelidir.
